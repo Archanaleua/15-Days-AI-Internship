@@ -2,7 +2,7 @@
 
 print("===== Simple Calculator =====")
 
-while True:
+while True: 
     print("\nChoose Operation:")
     print("1. Addition")
     print("2. Subtraction")

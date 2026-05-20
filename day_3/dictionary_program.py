@@ -1,7 +1,7 @@
 print("===== DICTIONARY PROGRAM =====")
 
 student = {
-    "name": "Archana",
+   "name": "Archana",
     "age": 20,
     "course": "AI"
 }
