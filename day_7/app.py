@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 # Page configuration
-st.set_page_config(
+st.set_page_config( 
     page_title="AI House Price Predictor",
     page_icon="🏠",
     layout="centered"
